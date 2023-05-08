@@ -19,7 +19,7 @@ Kuudra crash fixed
 Rare ping alert crash fixed
 
 How to install
-Download the latest release from the releases tab.
+Download the latest release from the [releases](https://github.com/HomelessCorey/Farm-Helper/releases/tag/hypixel) tab.
 Install Forge for 1.8.9.
 Press windows + R and type %appdata%.
 Navigate to .minecraft\mods and drop the jar in the mods folder. (If the mods folder does not yet exist simply create it.)
